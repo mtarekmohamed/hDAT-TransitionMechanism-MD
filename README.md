@@ -118,6 +118,4 @@ All simulations use:
 
 Several workflows support restarting from pre-equilibrated NPT checkpoints.
 
----
-
 
